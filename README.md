@@ -2,6 +2,6 @@
 
 Study of next-generation sequencing capacity, RefSeq database, and search space growth.
 
-For a detailed see [refseq_growth.md](refseq_growth.md).
+For more information see: [refseq_growth.md](refseq_growth.md).
 
 ![Hokusai_Triptych](imgs/hokusai_triptych.png)
